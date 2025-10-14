@@ -28,5 +28,5 @@ Thumbs.db
 .idea/
 
 # Model and CSV backups (optional)
-*.pkl
+
 *.csv~
