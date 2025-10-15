@@ -34,7 +34,7 @@ Examples of unacceptable behavior:
 
 If you experience or witness unacceptable behavior, please report it by contacting:
 
-📧 **Kotha Mohan Krishna** at alwaysmohankrishnan@gmail.com 
+📧 **P Rishindhar Reddy**
 
 All reports will be handled confidentially.
 
